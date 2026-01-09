@@ -57,7 +57,7 @@ Each project includes:
 ![Portfolio Preview](./Screenshot%202026-01-10%20003018.png)
 
 
-> *(You can add a screenshot named `preview.png` for better presentation)*
+
 
 ---
 
