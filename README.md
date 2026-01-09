@@ -54,7 +54,8 @@ Each project includes:
 
 ## 📸 Preview
 
-![Portfolio Preview](/Screenshot 2026-01-10 003018.png)
+![Portfolio Preview](./Screenshot%202026-01-10%20003018.png)
+
 
 > *(You can add a screenshot named `preview.png` for better presentation)*
 
